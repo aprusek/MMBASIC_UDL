@@ -1,5 +1,10 @@
 # MMBASIC.XML
 
+This is a WORK IN PROGRESS<BR>
+
+Many keywords are missing.<BR>
+
+
 `MMBASIC.XML` is a **Notepad++ User Defined Language (UDL)** definition for **MMBasic** source files.
 
 It is intended to improve the editing experience for MMBasic programs by adding syntax highlighting for common language elements used in `.bas` files.
